@@ -8,7 +8,7 @@ import Checkoutpage from "./page/Export/Checkoutpage";
 import Blog from "./page/Storybook/Blog";
 import Contact from "./page/Mail/Contact";
 import FAQs from "./page/Messages/FAQs";
-import ShoppingCart from "./page/Cart/shoppingCart";
+import ShoppingCart from "./page/Cart/ShoppingCart";
 import Register from "./page/Secure/Register";
 import Login from "./page/Log/Login";
 import Error from "./page/Error/Error";
